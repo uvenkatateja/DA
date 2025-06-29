@@ -1,5 +1,4 @@
 {
-  "root": "data_alchemist",
   "buildCommand": "npm run build",
   "outputDirectory": "build",
   "framework": "vite",
